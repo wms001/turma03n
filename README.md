@@ -2,7 +2,7 @@
 
 Instalado Git-bash 
 Criado Repositório Local 
-Aplicdo o INIT e  inicializado a area de trabalho 
+Aplicado o INIT e inicializado a area de trabalho do git local
 Criada a branch main e adcicionado o arquivo turma03_novo.txt (através do git add .)
 Executado o git commit -m "Primeiro commit turma03-wilmar"
 Criado o repositorio remoto : git remote add origin https://github.com/wms001/turma03n.git
